@@ -1,7 +1,7 @@
 # Server Texture Pack von Skinnyjeanstomas
 
 # Website
-Meine Website , für Previews und kopierungen, findet ihr [hier](https://skinnyjeanstomas.netlify.app) (COMMING SOON)
+Meine Website , für Previews und kopierungen, findet ihr [hier](https://betterattackx.web.app)
 
 ## BESCHREIBUNG
 Dieses Server Texture Pack wurde von mir, **Skinnyjeanstomas**, gecracked. Ich freue mich, meine Arbeit mit der Community zu teilen und hoffe, dass es euch gefällt und nützlich ist. Viel Spaß beim Nutzen des Packs!
